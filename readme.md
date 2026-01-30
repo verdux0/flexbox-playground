@@ -1,4 +1,4 @@
-# Offline Flexbox Playground
+# Offline Flexbox Playground :P
 
 An offline tool to configure Flexbox and positioning options from a control panel and see the result in real time.
 It helps you learn Flexbox and quickly generate CSS visually, without needing an internet connection.
@@ -19,20 +19,27 @@ It helps you learn Flexbox and quickly generate CSS visually, without needing an
 1. Download or clone this repository:
 
 	 ```bash
-	 git clone https://github.com/<your-username>/<your-repo-name>.git
+	 git clone https://github.com/verdux0/flexbox-playground.git
 	 ```
 
 2. Open `index.html` in any modern browser (Chrome, Firefox, Edge, etc.).
 
 No build step or server is required.
 
-## Usage
+# Usage
 
-1. Choose a `display` value and Flexbox options in the **Display & Flexbox** card.
-2. Adjust `position` and offsets in the **Positioning** card.
-3. (Optional) Add extra CSS declarations in **Custom CSS**.
-4. See the result in the **Preview** panel.
-5. Click **Copy CSS** to copy the generated styles for `#previewBox`.
+## 1. Choose a `display` value and Flexbox options in the **Display & Flexbox** card.
+
+<img src="https://github.com/user-attachments/assets/9c637b29-47d5-4d83-9277-e9a571b6fb85" width="70%">
+<img src="https://github.com/user-attachments/assets/4bc9ef04-8c9f-426a-b2de-0618af99afca" width="70%">
+   
+## 2. Adjust `position` and offsets in the **Positioning** card.
+
+<img src="https://github.com/user-attachments/assets/a8c5b87e-3e92-49f7-a216-0c0a654d8613" width="70%">
+
+## 3. (Optional) Add extra CSS declarations in **Custom CSS**.
+
+<img src="https://github.com/user-attachments/assets/b366ce94-9c4d-4dde-8990-0d6d621713f3" width="70%">
 
 ## Development
 
@@ -40,11 +47,5 @@ No build step or server is required.
 - `styles.css` – styling for the app and preview
 - `app.js` – logic to sync controls, state, preview, and generated CSS
 
-## Screenshots
 
-Add screenshots here.
-
-## License
-
-Add your preferred license here (for example, MIT).
 
